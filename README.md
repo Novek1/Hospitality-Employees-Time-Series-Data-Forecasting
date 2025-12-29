@@ -1,5 +1,7 @@
 # Hospitality Employees Time Series Forecasting
 
+![Time Series Graph](https://cdn.prod.website-files.com/64a7eed956ba9b9a3c62401d/64a80371696fdd543e06257a_Orange-and-green-chart-on-blue-background.webp)
+
 ## 📌 Project Overview
 This project focuses on **time series forecasting** using historical employee data from the hospitality sector. The objective is to model temporal patterns and predict future employee counts using deep learning techniques.
 
